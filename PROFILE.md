@@ -42,8 +42,8 @@ With over twenty years of experience at Microsoft, I specialize in designing, de
 ---
 
 ### 🌐 Languages
+- **English**
 - **Spanish**
-
 ---
 
 ### 📫 How to Reach Me
@@ -51,5 +51,3 @@ With over twenty years of experience at Microsoft, I specialize in designing, de
 - **LinkedIn**: [Marcus F.](www.linkedin.com/in/marcusdf)
 
 ---
-
-Feel free to customize each section to better match your personality and professional style. Including a profile picture and links to your projects or publications can also add a more personal touch to your GitHub README profile.
