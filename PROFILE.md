@@ -21,9 +21,6 @@ With over twenty years of experience at Microsoft, I specialize in designing, de
 - **Senior Service Engineer** *(July 2018 - March 2020)*  
   Focused on enhancing performance, reliability, and scalability of Microsoft's Identity services and contributing to the architecture and design of large-scale systems.
 
-- **Senior Cloud Solution Engineer** *(April 2018 - July 2018)*  
-  Assisted customers in effectively utilizing Azure services and provided feedback to Azure Engineering teams.
-
 - **Senior Application Development Manager** *(September 2013 - April 2018)*  
   Guided organizations in strategic development, code review, and managing configurations for large-scale projects.
 
